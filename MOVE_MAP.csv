@@ -1,0 +1,87 @@
+old_rel,new_rel,package,class,technique_guess
+Apple Division Complete Search and Recursion/src/Main.java,src/main/java/problems/dsa/sorting/AppleDivisionCompleteSearchAndRecursion.java,problems.dsa.sorting,AppleDivisionCompleteSearchAndRecursion,sorting
+SparseDSU/src/Main.java,src/main/java/problems/dsa/graph/SparseDSU.java,problems.dsa.graph,SparseDSU,graph
+2024 BPA Event 340 Reigonal/src/SeatingChartBuilder.java,src/main/java/problems/dsa/simulation/SeatingChartBuilder.java,problems.dsa.simulation,SeatingChartBuilder,simulation
+ADFGVX/src/Main.java,src/main/java/problems/dsa/string/ADFGVX.java,problems.dsa.string,ADFGVX,string
+AIChatBotGenerator_Regional/src/AIChatBotGenerator_Regional.java,src/main/java/problems/dsa/simulation/AIChatBotGenerator_Regional.java,problems.dsa.simulation,AIChatBotGenerator_Regional,simulation
+ASCL JD Number Transformation 2019/src/Main.java,src/main/java/problems/dsa/string/ASCLJDNumberTransformation2019.java,problems.dsa.string,ASCLJDNumberTransformation2019,string
+Aerospace Intruders/src/Main.java,src/main/java/problems/dsa/string/AerospaceIntruders.java,problems.dsa.string,AerospaceIntruders,string
+Air Terminator Control/src/Main.java,src/main/java/problems/dsa/string/AirTerminatorControl.java,problems.dsa.string,AirTerminatorControl,string
+Apollo 13/src/Main.java,src/main/java/problems/dsa/simulation/Apollo13.java,problems.dsa.simulation,Apollo13,simulation
+Apples in Boxes/src/Main.java,src/main/java/problems/dsa/sorting/ApplesInBoxes.java,problems.dsa.sorting,ApplesInBoxes,sorting
+BPA Java 2023 Regional/src/Main.java,src/main/java/problems/dsa/string/BPAJava2023Regional.java,problems.dsa.string,BPAJava2023Regional,string
+Basic Search/src/Main.java,src/main/java/problems/dsa/simulation/BasicSearch.java,problems.dsa.simulation,BasicSearch,simulation
+Card Game/src/Main.java,src/main/java/problems/dsa/string/CardGame.java,problems.dsa.string,CardGame,string
+Cherry Bomb/src/Main.java,src/main/java/problems/dsa/simulation/CherryBomb.java,problems.dsa.simulation,CherryBomb,simulation
+Count Good Numbers/src/Main.java,src/main/java/problems/dsa/math/CountGoodNumbers.java,problems.dsa.math,CountGoodNumbers,math
+Crafting/src/Main.java,src/main/java/problems/dsa/simulation/Crafting.java,problems.dsa.simulation,Crafting,simulation
+Deck of Cards/src/Main.java,src/main/java/problems/dsa/string/DeckOfCards.java,problems.dsa.string,DeckOfCards,string
+Deque Process/src/Main.java,src/main/java/problems/dsa/string/DequeProcess.java,problems.dsa.string,DequeProcess,string
+Destruction of the Dandelion Fields/src/Main.java,src/main/java/problems/dsa/sorting/DestructionOfTheDandelionFields.java,problems.dsa.sorting,DestructionOfTheDandelionFields,sorting
+Discounts/src/Main.java,src/main/java/problems/dsa/sorting/Discounts.java,problems.dsa.sorting,Discounts,sorting
+Distinct Elements/src/Main.java,src/main/java/problems/dsa/simulation/DistinctElements.java,problems.dsa.simulation,DistinctElements,simulation
+Drifting Away/src/Main.java,src/main/java/problems/dsa/string/DriftingAway.java,problems.dsa.string,DriftingAway,string
+Equal Values/src/Main.java,src/main/java/problems/dsa/simulation/EqualValues.java,problems.dsa.simulation,EqualValues,simulation
+Farmer Johns Card Game/src/Main.java,src/main/java/problems/dsa/sorting/FarmerJohnsCardGame.java,problems.dsa.sorting,FarmerJohnsCardGame,sorting
+Pathless/src/Main.java,src/main/java/problems/dsa/simulation/Pathless.java,problems.dsa.simulation,Pathless,simulation
+Perfecto/src/Main.java,src/main/java/problems/dsa/math/Perfecto.java,problems.dsa.math,Perfecto,math
+Pile Shuffling/src/Main.java,src/main/java/problems/dsa/simulation/PileShuffling.java,problems.dsa.simulation,PileShuffling,simulation
+Prefix Min and Suffix Max/src/Main.java,src/main/java/problems/dsa/simulation/PrefixMinAndSuffixMax.java,problems.dsa.simulation,PrefixMinAndSuffixMax,simulation
+Preparing for the Exam/src/Main.java,src/main/java/problems/dsa/simulation/PreparingForTheExam.java,problems.dsa.simulation,PreparingForTheExam,simulation
+Pushing Balls/src/Main.java,src/main/java/problems/dsa/simulation/PushingBalls.java,problems.dsa.simulation,PushingBalls,simulation
+SeatingChartBuilder/src/Main.java,src/main/java/problems/dsa/simulation/SeatingChartBuilderSeatingChartBuilder.java,problems.dsa.simulation,SeatingChartBuilderSeatingChartBuilder,simulation
+Shrinking Array/src/Main.java,src/main/java/problems/dsa/simulation/ShrinkingArray.java,problems.dsa.simulation,ShrinkingArray,simulation
+Square Pasture/src/Main.java,src/main/java/problems/dsa/simulation/SquarePasture.java,problems.dsa.simulation,SquarePasture,simulation
+Square Pasture USACO Bronze 1 December 2016/src/Main.java,src/main/java/problems/dsa/simulation/SquarePastureUSACOBronze1December2016.java,problems.dsa.simulation,SquarePastureUSACOBronze1December2016,simulation
+Square Pool/src/Main.java,src/main/java/problems/dsa/simulation/SquarePool.java,problems.dsa.simulation,SquarePool,simulation
+Stock Market Problem/src/Main.java,src/main/java/problems/dsa/simulation/StockMarketProblem.java,problems.dsa.simulation,StockMarketProblem,simulation
+Strange Machine/src/Main.java,src/main/java/problems/dsa/string/StrangeMachine.java,problems.dsa.string,StrangeMachine,string
+Superultras Favorite Permutation/src/Main.java,src/main/java/problems/dsa/simulation/SuperultrasFavoritePermutation.java,problems.dsa.simulation,SuperultrasFavoritePermutation,simulation
+Teleportation Bronze 1 2018/src/Main.java,src/main/java/problems/dsa/simulation/TeleportationBronze12018.java,problems.dsa.simulation,TeleportationBronze12018,simulation
+The Cunning Seller easy version/src/Main.java,src/main/java/problems/dsa/simulation/TheCunningSellerEasyVersion.java,problems.dsa.simulation,TheCunningSellerEasyVersion,simulation
+The Strict Teacher/src/Main.java,src/main/java/problems/dsa/simulation/TheStrictTeacher.java,problems.dsa.simulation,TheStrictTeacher,simulation
+Theatre Square/src/Main.java,src/main/java/problems/dsa/simulation/TheatreSquare.java,problems.dsa.simulation,TheatreSquare,simulation
+Tung Tung Sahur/src/Main.java,src/main/java/problems/dsa/string/TungTungSahur.java,problems.dsa.string,TungTungSahur,string
+USACO 2016 December Contest Bronze Problem 2. Block Game/src/Main.java,src/main/java/problems/dsa/string/USACO2016DecemberContestBronzeProblem2BlockGame.java,problems.dsa.string,USACO2016DecemberContestBronzeProblem2BlockGame,string
+USACO 2016 February Contest Bronze Problem 1. Milk Pails/src/Main.java,src/main/java/problems/dsa/simulation/USACO2016FebruaryContestBronzeProblem1MilkPails.java,problems.dsa.simulation,USACO2016FebruaryContestBronzeProblem1MilkPails,simulation
+USACO 2016 February Contest Bronze Problem 2. Circular Barn/src/Main.java,src/main/java/problems/dsa/simulation/USACO2016FebruaryContestBronzeProblem2CircularBarn.java,problems.dsa.simulation,USACO2016FebruaryContestBronzeProblem2CircularBarn,simulation
+USACO 2016 February Contest Bronze Problem 3. Load Balancing/src/Main.java,src/main/java/problems/dsa/simulation/USACO2016FebruaryContestBronzeProblem3LoadBalancing.java,problems.dsa.simulation,USACO2016FebruaryContestBronzeProblem3LoadBalancing,simulation
+USACO 2016 January Contest Bronze Problem 1. Promotion Counting/src/Main.java,src/main/java/problems/dsa/simulation/USACO2016JanuaryContestBronzeProblem1PromotionCounting.java,problems.dsa.simulation,USACO2016JanuaryContestBronzeProblem1PromotionCounting,simulation
+USACO 2016 January Contest Bronze Problem 2. Angry Cows/src/Main.java,src/main/java/problems/dsa/sorting/USACO2016JanuaryContestBronzeProblem2AngryCows.java,problems.dsa.sorting,USACO2016JanuaryContestBronzeProblem2AngryCows,sorting
+USACO 2016 US Open Contest Silver Problem 1. Field Reduction/src/Main.java,src/main/java/problems/dsa/simulation/USACO2016USOpenContestSilverProblem1FieldReduction.java,problems.dsa.simulation,USACO2016USOpenContestSilverProblem1FieldReduction,simulation
+USACO 2017 December Contest Bronze Problem 1. Blocked Billboard/src/Main.java,src/main/java/problems/dsa/simulation/USACO2017DecemberContestBronzeProblem1BlockedBillboard.java,problems.dsa.simulation,USACO2017DecemberContestBronzeProblem1BlockedBillboard,simulation
+USACO 2017 February Contest Bronze Problem 1. Why Did the Cow Cross the Road/src/Main.java,src/main/java/problems/dsa/simulation/USACO2017FebruaryContestBronzeProblem1WhyDidTheCowCrossTheRoad.java,problems.dsa.simulation,USACO2017FebruaryContestBronzeProblem1WhyDidTheCowCrossTheRoad,simulation
+USACO 2017 February Contest Bronze Problem 2. Why Did the Cow Cross the Road II/src/Main.java,src/main/java/problems/dsa/string/USACO2017FebruaryContestBronzeProblem2WhyDidTheCowCrossTheRoadII.java,problems.dsa.string,USACO2017FebruaryContestBronzeProblem2WhyDidTheCowCrossTheRoadII,string
+USACO 2017 US Open Contest Bronze Problem 3. Modern Art/src/Main.java,src/main/java/problems/dsa/simulation/USACO2017USOpenContestBronzeProblem3ModernArt.java,problems.dsa.simulation,USACO2017USOpenContestBronzeProblem3ModernArt,simulation
+USACO 2018 December Contest Bronze Problem 1. Mixing Milk/src/Main.java,src/main/java/problems/dsa/simulation/USACO2018DecemberContestBronzeProblem1MixingMilk.java,problems.dsa.simulation,USACO2018DecemberContestBronzeProblem1MixingMilk,simulation
+USACO 2018 December Contest Bronze Problem 2. The Bucket List/src/Main.java,src/main/java/problems/dsa/simulation/USACO2018DecemberContestBronzeProblem2TheBucketList.java,problems.dsa.simulation,USACO2018DecemberContestBronzeProblem2TheBucketList,simulation
+USACO 2018 December Contest Bronze Problem 3. Back and Forth/src/Main.java,src/main/java/problems/dsa/simulation/USACO2018DecemberContestBronzeProblem3BackAndForth.java,problems.dsa.simulation,USACO2018DecemberContestBronzeProblem3BackAndForth,simulation
+USACO 2018 February Contest Bronze Problem 3. Taming the Herd/src/Main.java,src/main/java/problems/dsa/simulation/USACO2018FebruaryContestBronzeProblem3TamingTheHerd.java,problems.dsa.simulation,USACO2018FebruaryContestBronzeProblem3TamingTheHerd,simulation
+USACO 2018 January Contest Bronze Problem 3. Out of Place/src/Main.java,src/main/java/problems/dsa/sorting/USACO2018JanuaryContestBronzeProblem3OutOfPlace.java,problems.dsa.sorting,USACO2018JanuaryContestBronzeProblem3OutOfPlace,sorting
+USACO 2018 US Open Contest Bronze Problem 2. Milking Order/src/Main.java,src/main/java/problems/dsa/simulation/USACO2018USOpenContestBronzeProblem2MilkingOrder.java,problems.dsa.simulation,USACO2018USOpenContestBronzeProblem2MilkingOrder,simulation
+USACO 2019 December Contest Bronze Problem 1. Cow Gymnastics/src/Main.java,src/main/java/problems/dsa/simulation/USACO2019DecemberContestBronzeProblem1CowGymnastics.java,problems.dsa.simulation,USACO2019DecemberContestBronzeProblem1CowGymnastics,simulation
+USACO 2019 December Contest Bronze Problem 2. Where Am I/src/Main.java,src/main/java/problems/dsa/string/USACO2019DecemberContestBronzeProblem2WhereAmI.java,problems.dsa.string,USACO2019DecemberContestBronzeProblem2WhereAmI,string
+USACO 2019 December Contest Bronze Problem 3. Livestock Lineup/src/Main.java,src/main/java/problems/dsa/simulation/USACO2019DecemberContestBronzeProblem3LivestockLineup.java,problems.dsa.simulation,USACO2019DecemberContestBronzeProblem3LivestockLineup,simulation
+USACO 2019 February Contest Bronze Problem 1 Sleepy Cow Herding/src/Main.java,src/main/java/problems/dsa/sorting/USACO2019FebruaryContestBronzeProblem1SleepyCowHerding.java,problems.dsa.sorting,USACO2019FebruaryContestBronzeProblem1SleepyCowHerding,sorting
+USACO 2019 February Contest Bronze Problem 1. Sleepy Cow Herding/src/Main.java,src/main/java/problems/dsa/simulation/USACO2019FebruaryContestBronzeProblem1SleepyCowHerding.java,problems.dsa.simulation,USACO2019FebruaryContestBronzeProblem1SleepyCowHerding,simulation
+USACO 2019 January Contest Bronze Problem 1. Shell Game/src/Main.java,src/main/java/problems/dsa/simulation/USACO2019JanuaryContestBronzeProblem1ShellGame.java,problems.dsa.simulation,USACO2019JanuaryContestBronzeProblem1ShellGame,simulation
+USACO 2019 US Open Contest Bronze Problem 1. Bucket Brigade/src/Main.java,src/main/java/problems/dsa/string/USACO2019USOpenContestBronzeProblem1BucketBrigade.java,problems.dsa.string,USACO2019USOpenContestBronzeProblem1BucketBrigade,string
+USACO 2019 US Open Contest Bronze Problem 2. Milk Factory/src/Main.java,src/main/java/problems/dsa/simulation/USACO2019USOpenContestBronzeProblem2MilkFactory.java,problems.dsa.simulation,USACO2019USOpenContestBronzeProblem2MilkFactory,simulation
+USACO 2020 December Contest Bronze Problem 1. Do You Know Your ABCs/src/Main.java,src/main/java/problems/dsa/sorting/USACO2020DecemberContestBronzeProblem1DoYouKnowYourABCs.java,problems.dsa.sorting,USACO2020DecemberContestBronzeProblem1DoYouKnowYourABCs,sorting
+USACO 2020 December Contest Bronze Problem 2. Daisy Chains/src/Main.java,src/main/java/problems/dsa/simulation/USACO2020DecemberContestBronzeProblem2DaisyChains.java,problems.dsa.simulation,USACO2020DecemberContestBronzeProblem2DaisyChains,simulation
+USACO 2020 December Contest Bronze Problem 3. Stuck in a Rut/src/Main.java,src/main/java/problems/dsa/simulation/USACO2020DecemberContestBronzeProblem3StuckInARut.java,problems.dsa.simulation,USACO2020DecemberContestBronzeProblem3StuckInARut,simulation
+USACO 2020 February Contest Bronze Problem 2. Mad Scientist/src/Main.java,src/main/java/problems/dsa/string/USACO2020FebruaryContestBronzeProblem2MadScientist.java,problems.dsa.string,USACO2020FebruaryContestBronzeProblem2MadScientist,string
+USACO 2020 January Contest Bronze Problem 1. Word Processor/src/Main.java,src/main/java/problems/dsa/simulation/USACO2020JanuaryContestBronzeProblem1WordProcessor.java,problems.dsa.simulation,USACO2020JanuaryContestBronzeProblem1WordProcessor,simulation
+USACO 2020 January Contest Bronze Problem 3. Race/src/Main.java,src/main/java/problems/dsa/dfs/USACO2020JanuaryContestBronzeProblem3Race.java,problems.dsa.dfs,USACO2020JanuaryContestBronzeProblem3Race,dfs
+USACO 2020 US Open Contest Bronze Problem 1. Social Distancing I/src/Main.java,src/main/java/problems/dsa/string/USACO2020USOpenContestBronzeProblem1SocialDistancingI.java,problems.dsa.string,USACO2020USOpenContestBronzeProblem1SocialDistancingI,string
+USACO 2021 January Contest Bronze Problem 2. Even More Odd Photos/src/Main.java,src/main/java/problems/dsa/simulation/USACO2021JanuaryContestBronzeProblem2EvenMoreOddPhotos.java,problems.dsa.simulation,USACO2021JanuaryContestBronzeProblem2EvenMoreOddPhotos,simulation
+USACO 2022 US Open Contest Bronze Problem 1. Photoshoot/src/Main.java,src/main/java/problems/dsa/string/USACO2022USOpenContestBronzeProblem1Photoshoot.java,problems.dsa.string,USACO2022USOpenContestBronzeProblem1Photoshoot,string
+Vanya and Lanterns/src/Main.java,src/main/java/problems/dsa/sorting/VanyaAndLanterns.java,problems.dsa.sorting,VanyaAndLanterns,sorting
+Watermelon/src/Main.java,src/main/java/problems/dsa/simulation/Watermelon.java,problems.dsa.simulation,Watermelon,simulation
+Wonderful Gloves/src/Main.java,src/main/java/problems/dsa/sorting/WonderfulGloves.java,problems.dsa.sorting,WonderfulGloves,sorting
+Yet Another Array Problem/src/Main.java,src/main/java/problems/dsa/math/YetAnotherArrayProblem.java,problems.dsa.math,YetAnotherArrayProblem,math
+Yuu Koito and Minimum Absolute Sum/src/Main.java,src/main/java/problems/dsa/simulation/YuuKoitoAndMinimumAbsoluteSum.java,problems.dsa.simulation,YuuKoitoAndMinimumAbsoluteSum,simulation
+Bubble Sort/src/Main.java,src/main/java/problems/dsa/sorting/BubbleSort.java,problems.dsa.sorting,BubbleSort,sorting
+USACO 2019 January Contest Bronze Problem 2. Sleepy Cow Sorting/src/Main.java,src/main/java/problems/dsa/sorting/USACO2019JanuaryContestBronzeProblem2SleepyCowSorting.java,problems.dsa.sorting,USACO2019JanuaryContestBronzeProblem2SleepyCowSorting,sorting
+Shohag Loves Strings/src/Main.java,src/main/java/problems/dsa/string/ShohagLovesStrings.java,problems.dsa.string,ShohagLovesStrings,string
+String Task/src/Main.java,src/main/java/problems/dsa/string/StringTask.java,problems.dsa.string,StringTask,string
